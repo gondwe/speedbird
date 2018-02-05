@@ -1,0 +1,5 @@
+ Number: +254728884737 Status: Success MessageId: ATXid_41902900696c6cf133708da58ae6ebc0 Cost: KES 0.8000
+ Number: +254752622496 Status: Success MessageId: ATXid_8907bd53661967b4bee9b1e08a868227 Cost: KES 0.8000
+ Number: +254728884737 Status: Success MessageId: ATXid_7f33d8d4131c05a9ea6c29a2ba21a8e4 Cost: KES 0.8000
+ Number: +254752622496 Status: Success MessageId: ATXid_c210d434b24e8abc65919aae2aa5f8d9 Cost: KES 0.8000
+ Number: +254728884737 Status: Success MessageId: ATXid_be3ebd8a9d5e71a8afc9404ae616312c Cost: KES 0.8000
