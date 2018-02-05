@@ -1,4 +1,10 @@
 <?php
+$http_origin = $_SERVER['HTTP_ORIGIN'];
+
+if ($http_origin == "http://emptyjourneys.com" || $http_origin == "http://nardtec.net" || $http_origin == "http://akilycreative.co.ke")
+{  
+    header("Access-Control-Allow-Origin: " . $http_origin);
+}
 
 require_once('AfricasTalkingGateway.php');
 if(isset($_POST["recipient"])){
