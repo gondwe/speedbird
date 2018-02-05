@@ -1,4 +1,5 @@
 <?php
+
 require_once('AfricasTalkingGateway.php');
 if(isset($_POST["recipient"])){
 
